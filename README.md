@@ -40,7 +40,7 @@ To prepare the dataset for analysis in Tableau:
 ## 🎯 Dashboard Specifications
 
 ### 📌 Sales Dashboard
-[](https://github.com/evansory/Tableau-Project/blob/main/Sales%20Dash%20Tableau.png)
+![](https://github.com/evansory/Tableau-Project/blob/main/Sales%20Dash%20Tableau.png)
 #### 🎯 Purpose
 To provide a high-level and detailed view of sales performance, allowing stakeholders to analyze trends, compare metrics, and monitor year-over-year progress.
 
@@ -49,11 +49,10 @@ To provide a high-level and detailed view of sales performance, allowing stakeho
 - **Sales Trends**: Show monthly data for each KPI over the two years and highlight months with peak and low performance.
 - **Product Subcategory Comparison**: Compare performance by subcategory and evaluate sales versus profit.
 - **Weekly Trends**: Display weekly sales and profit with average lines, and visually emphasize weeks above and below average.
-[](https://github.com/evansory/Tableau-Project/blob/main/Sales%20Dash%20Tableau.png)
 ---
 
 ### 👥 Customer Dashboard
-[](https://github.com/evansory/Tableau-Project/blob/main/Customers%20Dashboard%20Tableau.png)
+![](https://github.com/evansory/Tableau-Project/blob/main/Customers%20Dashboard%20Tableau.png)
 #### 🎯 Purpose
 To help marketing teams and decision-makers understand customer engagement, behavior, and high-value relationships.
 
