@@ -212,4 +212,4 @@ The structured workflow—starting from requirement gathering to final dashboard
 ## ✍️ Author
 
 **Asamu Augustine**  
-[LinkedIn](#https://www.linkedin.com/in/augustineasamu/) | [Portfolio](#) | [Email](#evansory9561@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/augustineasamu/) | [Portfolio](#) | [Email](evansory9561@gmail.com)
